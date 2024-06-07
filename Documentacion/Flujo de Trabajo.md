@@ -52,11 +52,3 @@ Este documento describe el flujo de trabajo a seguir para el desarrollo de una a
 - **Control de versiones:** Git
 - **Documentación:** Markdown
 
-## Roles y Responsabilidades
-- **Product Owner:** Definición de requisitos y prioridades.
-- **Scrum Master:** Facilitador del proceso.
-- **Desarrolladores:** Implementación del código.
-- **Testers:** Ejecución de pruebas.
-
----
-
