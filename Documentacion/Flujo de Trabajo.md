@@ -42,7 +42,7 @@ Este documento describe el flujo de trabajo a seguir para el desarrollo de una a
 - **Salidas:** Manual de Usuario, Manual de Instalación/Configuración, Notas de la Versión, Documento de Trazabilidad.
 
 ### 7. Despliegue
-- **Responsable:** Ingeniero de Desarrolo
+- **Responsable:** Ingeniero de Desarrollo
 - **Descripción:** Desplegar el software en el ambiente de producción.
 - **Entradas:** Software probado, Manual de Instalación.
 - **Salidas:** Software en producción.
