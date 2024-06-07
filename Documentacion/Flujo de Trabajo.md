@@ -59,4 +59,4 @@ Este documento describe el flujo de trabajo a seguir para el desarrollo de una a
 - **Testers:** Ejecución de pruebas.
 
 ---
-Este flujo de trabajo está diseñado para asegurar un desarrollo eficiente y ordenado de la aplicación de traducción entre español y Braille, cumpliendo con los estándares de calidad y los requisitos del cliente. La correcta implementación de cada etapa es crucial para el éxito del proyecto.
+
