@@ -43,9 +43,9 @@ Este documento describe el flujo de trabajo a seguir para el desarrollo de una a
 
 ### 7. Despliegue
 - **Responsable:** Ingeniero de Desarrollo
-- **Descripción:** Desplegar el software en el ambiente de producción.
+- **Descripción:** Desplegar el software en el ambiente de producción. El proceso incluye la generación del archivo JAR, configuración del entorno de producción y verificación de la correcta instalación y funcionamiento del software.
 - **Entradas:** Software probado, Manual de Instalación.
-- **Salidas:** Software en producción.
+- **Salidas:** Software en producción, Archivo JAR.
 
 
 ## Herramientas Utilizadas
